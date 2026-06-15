@@ -1,0 +1,6 @@
+{
+  "name": "Plantae Al-Quran PBL",
+  "description": "Modul Interaktif Sains Berbasis Problem Based Learning (PBL) dalam Memahami Materi Tumbuhan (Plantae) Berdasarkan Al-Qur'an",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
